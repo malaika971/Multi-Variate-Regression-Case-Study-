@@ -13,7 +13,7 @@ Regional Delivery Service, Inc. (RDS) is a small business focused on same-day de
 - There are 13 feature variables and 1 target variable "Time Taken"
 
 
-## Hypothesis:
+## Hypothesis
 #### Hypothesis 1
 - Including all available features in the linear regression model will provide the most accurate predictions.
 
