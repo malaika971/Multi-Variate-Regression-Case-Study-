@@ -2,7 +2,7 @@
 ## Multivariable regression pipeline to predict time taken for a package delivery business.
 ## Problem Statement
 
-Regional Delivery Service, Inc. (RDS) is a small business focused on same-day delivery of letters, packages, and small items. To save time and reduce fuel costs, the company uses Google Maps to combine several deliveries into one trip. However, there’s a need to develop a reliable way to estimate delivery times based on 13 important factors that affect how long a delivery takes. Doing so will help RDS operate more efficiently and provide better service to customers.
+Regional Delivery Service, Inc. (RDS) is a small business focused on same-day delivery of letters, packages, and small items. To enhance operational efficiency and reduce fuel costs, RDS utilizes Google Maps to optimize delivery routes. However, there is a need to develop a reliable way to estimate delivery times based on 13 important factors that affect how long a delivery takes. This project aims to help RDS operate more efficiently and improve customer satisfaction.
 
 ## OBJECTIVES
 - Develop a multivariable regression pipeline to predict time taken for a package delivery business.
